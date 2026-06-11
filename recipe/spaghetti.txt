@@ -16,5 +16,5 @@ Each recipe should include:
 - Title
 - Ingredients (one per line with -)
 - Instructions (numbered steps)
-- Prep time
+- Prep time  15
 - Cook time
