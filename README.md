@@ -12,6 +12,8 @@ A collection of text-based recipes.
 
 \- Garden Salad
 
+\-Chocolate Cake
+
 
 
 \## How to Contribute
